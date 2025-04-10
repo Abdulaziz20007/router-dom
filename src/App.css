@@ -19,7 +19,6 @@ h6 {
   margin-bottom: 1rem;
 }
 
-/* Home page styles */
 .home-page {
   padding: 20px;
 }
@@ -37,7 +36,6 @@ h6 {
   margin-bottom: 10px;
 }
 
-/* Counter page styles */
 .counter-page {
   padding: 20px;
   display: flex;
@@ -92,7 +90,6 @@ h6 {
   opacity: 0.9;
 }
 
-/* Users page styles */
 .users-page {
   padding: 20px;
 }
@@ -147,7 +144,6 @@ h6 {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* Products page styles */
 .products-page {
   padding: 20px;
 }
@@ -237,7 +233,6 @@ h6 {
   flex-grow: 1;
 }
 
-/* Loading and error states */
 .loading,
 .error {
   display: flex;
